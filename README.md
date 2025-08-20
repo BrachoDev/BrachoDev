@@ -52,6 +52,6 @@ I'm a Data Analyst and aspiring Data Scientist with a strong foundation in Compu
 
 ## Check out my Social Media
 
-<a href= "www.linkedin.com/in/carlos-bracho-5bb07b1a3">
+<a href= "https://www.linkedin.com/in/carlos-bracho-5bb07b1a3/">
     <img src="https://img.shields.io/badge/Linkedin-279EED?style=for-the-badge&logo=&logoColor=white">
 </a>
