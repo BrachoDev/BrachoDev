@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam0zdnllMXE0Y293aGw3bDdheG1rM3l2eG9kdTE3amRhZWxoemE2ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2YZNRZpTOt6c8r1nor/giphy.gif" width="35px">&nbsp;**_About me:_**
 
-I'm a Data Analyst and aspiring Data Scientist with a strong foundation in Computer Science. I’m passionate about uncovering insights from data and leveraging analytics to solve real-world problems. Currently, I’m sharpening my skills in Python, SQL, and machine learning.
+I'm a CS student at <a href=https://www.snhu.edu>SNHU</a>, Data Analyst Intern at <a href=https://www.disneycareers.com/en>Disney</a> and aspiring Data Scientist. I’m passionate about uncovering insights from data and leveraging analytics to solve real-world problems. Currently, I’m sharpening my skills in Python, SQL, and machine learning.
 
     📊 I’m looking to collaborate on data-driven projects
 
@@ -50,7 +50,7 @@ I'm a Data Analyst and aspiring Data Scientist with a strong foundation in Compu
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </span>
 
-## Check out my Social Media
+## Social Media
 
 <a href= "https://www.linkedin.com/in/carlos-bracho-5bb07b1a3/">
     <img src="https://img.shields.io/badge/Linkedin-279EED?style=for-the-badge&logo=&logoColor=white">
